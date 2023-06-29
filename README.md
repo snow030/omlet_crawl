@@ -2,9 +2,6 @@
 本python使用了selenium, requests, os, time, json 5个库
 如果无法运行，你可以尝试下载这些库
 
-## 下载链接
-* 
-
 ## 特点
 * 它是以json的形式输出贴文的内容，创建日期，留言等
 * 主要的内容仍然以html的形式储存
